@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Plus+Jakarta+Sans:wght@500;700;800&family=Red+Hat+Display:wght@700;900&display=swap');
+
+body{
+    background-color:#D5E1EF;
+    display: flex;
+}
+div {
+    background-color: white;
+    margin: auto;
+    padding: 16px;
+    border-radius: 20px;
+    width: 320px;
+    height: 497px;
+    
+}
+img{
+    max-width: 100%;
+    border-radius: 10px;
+    text-align: center; 
+}
+h1{ 
+     color: #1F314F;
+     font-family: Outfit;
+    font-weight:700;
+    font-size:22px;
+    text-align: center;
+
+    padding-top: 24px;
+}
+p{
+    color: #7D889E;
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    line-height: 18.9px;
+    padding-bottom: 40px ;
+    
+    
+}
